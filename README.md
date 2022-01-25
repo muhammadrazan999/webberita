@@ -17,6 +17,10 @@ silahkan dicoba
 
 - ![logo](view-3.png)
 
+# Tutorial Instalasi?
+- 1. Siapkan Apache Server (XAMPP atau Awebserver)
+- 2. Siapkan Code editor/ Text Editornya
+- 3. Download file Zip Klik ==>
 
 # selamat mencoba
 
