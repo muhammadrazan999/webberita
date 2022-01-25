@@ -22,6 +22,10 @@ silahkan dicoba
 - 2. Siapkan Code editor/ Text Editornya
 ![image](https://img.shields.io/github/downloads/{muhammadrazan999}/{muhammadrazan999}/total.svg)
 - 3. Download file Zip Klik ==> [@download..!!](https://github.com/muhammadrazan999/webberita/archive/refs/heads/main.zip)
+- 4. ekstrak => jalankan Server => selesai
+- 5. Tunggu Info update lebih lanjut Yach 
+
+
 
 # selamat mencoba
 
