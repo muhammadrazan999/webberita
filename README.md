@@ -20,7 +20,7 @@ silahkan dicoba
 # Tutorial Instalasi?
 - 1. Siapkan Apache Server (XAMPP atau Awebserver)
 - 2. Siapkan Code editor/ Text Editornya
-- 3. Download file Zip Klik ==> ![https://img.shields.io/github/downloads/{muhammadrazan999}/{muhammadrazan999}/total.svg](https://github.com/muhammadrazan999/webberita/archive/refs/heads/main.zip)
+- 3. Download file Zip Klik ==> ![@https://img.shields.io/github/downloads/{muhammadrazan999}/{muhammadrazan999}/total.svg](https://github.com/muhammadrazan999/webberita/archive/refs/heads/main.zip)
 
 # selamat mencoba
 
