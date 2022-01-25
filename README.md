@@ -9,7 +9,7 @@ silahkan dicoba
 - 🖥️ || coding yang mudah dipahami
 
 # Preview
-![gif](http://www.razancode.my.id/web.gif)
+![gif](https://www.razancode.my.id/web.gif)
 # selamat mencoba
 
 
