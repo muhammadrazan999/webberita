@@ -9,8 +9,7 @@ silahkan dicoba
 - 🖥️ || coding yang mudah dipahami
 
 # Preview
-![Watch video](/link?url=https%3A%2F%2Fimg.youtube.com%2Fvi%2FT-D1KVIuvjA%2Fmaxresdefault.jpg)
-
+![Watch video](http://www.razancode.my.id/web.gif)
 # selamat mencoba
 
 
