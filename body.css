@@ -1,0 +1,76 @@
+
+
+
+@media only screen and (min-width: 768px){
+	/* css jumbotron*/
+	body{
+    margin-top:208px;
+    background-color:;
+    text-align:center;
+    }
+    .jumbotron{
+    	height:750px;
+        width:fullwidth;
+        text-align:center;
+    }
+    .jumbotron, .jumbotron p{
+    	font-size:30px;
+    }
+	
+}
+@media only screen and (max-width: 480px){
+    body{
+         margin-top:83px;
+         width:fullwidth;
+    }
+    .jumbotron,p{
+    	font-size:15px;
+    }
+    .jumbotron .garis{
+	margin-right:300px;
+	}
+}
+.jumbotron .garis{
+	border:solid #dc3545;
+	width:70px;
+	height:3px;
+	border-width:3px;
+	margin:auto;
+	
+	}
+/*css slider*/
+.garis{
+	border:solid #dc3545;
+	width:70px;
+	height:3px;
+	border-width:3px;
+	margin:auto;
+	
+	}
+
+.carousel-item{
+	height:670px;
+	}
+.carousel-item img{
+	margin-top:-50px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
