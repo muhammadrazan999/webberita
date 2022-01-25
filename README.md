@@ -9,7 +9,7 @@ silahkan dicoba
 - 🖥️ || coding yang mudah dipahami
 
 # Preview
-![gambar](ScreenRecord_2022-01-26_00-13-51 (1).gif)
+![gambar](ScreenRecord_2022-01-26_00-13-51(1).gif)
 
 # selamat mencoba
 
