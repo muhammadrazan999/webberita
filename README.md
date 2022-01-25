@@ -10,8 +10,14 @@ silahkan dicoba
 
 # Preview
 - ![logo](view1.png) 
+
+
 - ![logo](view2.png) 
+
+
 - ![logo](view-3.png)
+
+
 # selamat mencoba
 
 
