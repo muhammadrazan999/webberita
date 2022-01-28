@@ -3,6 +3,10 @@
 Sebuah contoh web portal berita dengan menggunakan html dan CSS bootstrap
 silahkan dicoba 
 
+#Update
+- dilengkapi Panel Admin
+- proses pengerjaan
+
 - 📱RESPONSIVE📱
 - 🖥️ || Mudah digunakan
 - 🖥️ || bagus utk pemula web 
