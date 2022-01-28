@@ -1,0 +1,140 @@
+*{padding: 0; margin: 0; font-family: arial;}
+ 
+.header{
+  width: 100%;
+  /* background-color: gray; */
+  background-image: url("latar.jpg");
+  background-size: cover;
+}
+ 
+.container{
+  padding: 20px;
+  text-align: center;
+}
+ 
+.container .text{
+  font-size: 35px;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+ 
+.container .logo img{
+  width: 200px;
+}
+ 
+/*Bagian Menu*/
+ 
+.menu{
+  width: 100%;
+  float: left;
+  background-image: linear-gradient(#1f0A60,#21007f);
+}
+ 
+.menuutama ul>li{
+  float: left;
+  list-style: none;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding: 25px;
+}
+ 
+.menuutama ul>li>a{
+  text-decoration: none;
+  color: white;
+}
+ 
+.menuutama ul>li:hover{
+  background-color: #DD2121;
+}
+ 
+/* kelas isi */
+ 
+.isi{
+  width: 100%;
+  float: left;
+}
+ 
+.isinya .col3{
+  box-sizing: border-box;
+  margin: 0.5%;
+  width: 32.33%;
+  float: left;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 1px 1px 10px black;
+}
+ 
+.gambar img{
+  width: 100%;
+  height: 30%;
+  box-sizing: border-box;
+}
+ 
+.judul{
+  width: 100%;
+  box-sizing: border-box;
+  background-image: linear-gradient(#004A79,#00137f);
+  padding: 10px;
+  padding-bottom: 4px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+ 
+.tanggal{
+  color: white;
+  background-color: #17204E;
+  padding: 10px 0px 10px 10px;
+}
+ 
+.isiberita{
+  padding: 10px;
+  text-align: justify;
+}
+ 
+.tombol{
+  width: 100%;
+  text-align: right;
+}
+ 
+.tombol a{
+  text-decoration: none;
+ 
+}
+ 
+.tombol .btn{
+  padding: 10px;
+  background-color: #17204E;
+  font-size: 15px;
+  color: white;
+  padding: 10px 20px 10px 20px;
+}
+ 
+.tombol .btn:hover{
+  background-color: #DD2121;
+}
+ 
+.tag{
+  clear: both;
+  padding: 5px 10px 5px 10px;
+  color: white;
+  background-color: #17204E;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+ 
+}
+ 
+/* ini adalah bagian footer */
+ 
+.fot{
+  box-sizing: border-box;
+  width: 100%;
+  background-image: linear-gradient(#1f0A60,#21007f);
+  text-align: center;
+  clear: both;
+  color: white;
+  padding: 20px 20px 20px 10px;
+}
+ 
