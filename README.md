@@ -5,7 +5,7 @@ silahkan dicoba
 
 #Update
 - dilengkapi Panel Admin
-- ![logo](../gambar/Screenshot_2022-01-27-02-14-46.png)
+- ![logo](gambar/Screenshot_2022-01-27-02-14-46.png)
 - proses pengerjaan
 
 - 📱RESPONSIVE📱
